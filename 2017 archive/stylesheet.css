@@ -1,0 +1,93 @@
+/* * {
+
+	border: 1px dashed red;
+
+} */
+
+body {
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Lora', serif;
+}
+
+h1 {
+	text-align: center;
+	font-size: 3em;
+}
+
+h3 {
+	text-align: center;
+	font-size: 2em;
+}
+
+a {
+	text-decoration: none;
+	color: #e5ebf0;
+	font-weight: normal;
+	font-size: 1em;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+.nav {
+		background-color: #82A1C9;
+	color: #e5ebf0;
+	height: 2em;
+	padding: 5px 0px 0px 5px;
+}
+
+.sociallink {
+	display: inline-block;
+	float: left;
+	padding-left: 30px;
+	padding-top: 5px;
+}
+
+.blue-container {	
+	width: 100%;
+	background-color: #82A1C9;	
+	color: #dbdbdb;
+	padding: 30px 0px 30px 0px;
+}
+
+.header {
+	width: 100%;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("purple-flowers2.jpg");
+	background-size: cover;
+	background-color: #7298C9;
+	color: #dbdbdb;
+	padding: 30px 0px 30px 0px;
+}
+
+.white-container {	
+	width: 100%;
+	background-color: #ffffff;	
+	color: #706F6F;
+	padding: 30px 0px 30px 0px;
+}
+
+.text {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.contact {
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+img {
+	width: 300px;
+}
+
+.gallery {
+	margin: 0 auto;
+}
+
+.gallery-item {
+	padding: 5px 10px 5px 10px;
+}
